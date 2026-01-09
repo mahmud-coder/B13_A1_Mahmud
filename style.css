@@ -25,18 +25,20 @@ body{
 
 .navbar a {
     margin-right: 20px;
+    font-size: 16px;
     text-decoration: none;
     color: #374151;
 }
 
 .logo {
     font-weight: bold;
-    font-size: 16px;
+  
 }
 
 
 .btn {
     background: #469165;
+    font-size: 16px;
     color: white;
     border: none;
     padding: 10px 18px;
@@ -85,6 +87,7 @@ body{
     max-width: 700px;
     margin: 0 auto 30px;
     color: #cbd5f5;
+    font-size: 18px;
 }
 
 .top-note {
