@@ -243,6 +243,72 @@ margin-bottom: 0%;
     padding: 4rem;
 }
 
+.join_box h2 {
+    font-style: Bold;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48px;
+}
 .payment {
     font-size: 12px;
+
+}
+
+
+.footer {
+    background: #001931;
+    color: #e5e7eb;
+    padding: 1rem 10%;
+}
+
+
+.footer-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+
+
+.footer-logo {
+    display: flex;
+    align-items: center;
+}
+
+
+
+.footer-social p {
+    margin-bottom: 8px;
+    font-size: 18px;
+}
+
+.footer-social .icons a {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    width: 24px;
+    height: 24px;
+    gap: 12px;
+    border-radius: 50%;
+    background: #ffffff;
+    color: #020617;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+
+.footer hr {
+    margin: 40px 0 20px;
+    border: none;
+    height: 1px;
+    background: #1e293b;
+}
+
+
+.footer-copy {
+    text-align: center;
+    font-size: 14px;
+    color: #9ca3af;
 }
