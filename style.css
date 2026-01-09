@@ -114,6 +114,7 @@ body{
     padding: 3rem 10%;
     text-align: center;
     background: #FBFBFB;
+    
 }
 
 .cards-section h2{
@@ -147,7 +148,7 @@ margin-bottom: 0%;
     gap: 16px;
     margin-top: 16px;
     padding: 24px;
-    justify-content: flex-start;
+    justify-content: center;
     
 }
 
@@ -167,6 +168,7 @@ margin-bottom: 0%;
 
 .solution {
     padding: 3rem 10%;
+    text-align: center;
     
 }
 .sol_box {
