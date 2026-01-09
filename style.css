@@ -30,6 +30,10 @@ body{
     color: #374151;
 }
 
+.navbar a:hover {
+    color:#469165
+}
+
 .logo {
     font-weight: bold;
   
@@ -52,6 +56,12 @@ body{
 
 }
 
+
+
+.btn:hover {
+    background-color: #16a34a;
+}
+
 .btn2 {
     background: transparent;
     border: 1px solid #ffffff;
@@ -63,7 +73,9 @@ body{
     display: inline-flex;
     gap: 8px;
 }
-
+.btn2:hover {
+    background-color: #53577abe;
+}
 
 .hero {
 
@@ -167,20 +179,17 @@ margin-bottom: 0%;
 }
 
 .solution {
-    padding-left: 120px;
-     
-    
-    
+      padding: 3rem 10%;
+
 }
 .sol_box {
-    display: flex;
-       gap: 20px;
-       align-items: right;
-    
+   display:  inline-flex;
+
+
 }
 .sol_img img {
     max-width: 100%;
-    
+   
 }
 
 .solution-text {
@@ -235,7 +244,7 @@ margin-bottom: 0%;
 .join-section {
     text-align: center;
     padding: 0rem 10%;
-    padding-bottom: 3rem;
+    padding-bottom: 1rem;
 }
 
 .join_box {
