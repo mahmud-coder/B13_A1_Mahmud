@@ -249,10 +249,6 @@ margin-bottom: 0%;
     font-weight: 700;
     line-height: 48px;
 }
-.payment {
-    font-size: 12px;
-
-}
 
 
 .footer {
@@ -281,7 +277,7 @@ margin-bottom: 0%;
 
 .footer-social p {
     margin-bottom: 8px;
-    font-size: 18px;
+    font-size: 20px;
 }
 
 .footer-social .icons a {
