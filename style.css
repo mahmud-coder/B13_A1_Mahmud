@@ -34,7 +34,7 @@ body{
     font-size: 20px;
 }
 
-/* BUTTONS */
+
 .btn {
     background: #469165;
     color: white;
@@ -49,3 +49,57 @@ body{
     gap: 8px;
 
 }
+
+.btn2 {
+    background: transparent;
+    border: 1px solid #ffffff;
+    color: #ffffff;
+    padding: 10px 18px;
+    border-radius: 6px;
+    cursor: pointer;
+    align-items: center;
+    display: inline-flex;
+    gap: 8px;
+}
+
+
+.hero {
+
+    text-align: center;
+    padding: 100px 20px;
+    background: url(assets/hero-bg.png) no-repeat center center fixed;
+    background-size: cover;
+    color: white;
+}
+
+.hero h1 {
+    font-size: 48px;
+    margin-bottom: 20px;
+}
+
+.hero h1 span {
+    color: #469165;
+}
+
+.para {
+    max-width: 700px;
+    margin: 0 auto 30px;
+    color: #cbd5f5;
+}
+
+.top-note {
+    display: inline-block;
+    background: #ffffff;
+    color: #469165;
+    padding: 6px 14px;
+    border-radius: 20px;
+    font-size: 12px;
+    margin-bottom: 20px;
+    align-items: center;
+    display: inline-flex;
+    gap: 8px;
+}
+.hero-buttons {
+    display: inline-flex;
+    align-items: center;
+    gap: 16px;
