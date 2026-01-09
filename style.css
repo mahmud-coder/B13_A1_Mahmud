@@ -167,22 +167,27 @@ margin-bottom: 0%;
 }
 
 .solution {
-    padding: 3rem 10%;
-    text-align: center;
+    padding-left: 120px;
+     
+    
     
 }
 .sol_box {
-    display: inline-flex;
+    display: flex;
+       gap: 20px;
+       align-items: right;
     
 }
 .sol_img img {
     max-width: 100%;
+    
 }
 
 .solution-text {
     max-width: 600px;
-    padding-left: 50px;
+    padding-left: 0px;
     margin: auto;
+    text-align: left;
 
 }
 
@@ -205,7 +210,7 @@ margin-bottom: 0%;
 }
 
 .solution ul {
-    padding-left: 20px;
+    padding-left: 1px;
 }
 
 .solution li {
@@ -226,3 +231,18 @@ margin-bottom: 0%;
     padding-right: 8px;
 }
 
+
+.join-section {
+    text-align: center;
+    padding: 0rem 10%;
+    padding-bottom: 3rem;
+}
+
+.join_box {
+    background: #F7F6F2;
+    padding: 4rem;
+}
+
+.payment {
+    font-size: 12px;
+}
