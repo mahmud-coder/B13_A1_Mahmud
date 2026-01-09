@@ -164,3 +164,63 @@ margin-bottom: 0%;
     padding: 8px;
     border-radius: 100px;
 }
+
+.solution {
+    padding: 3rem 10%;
+    
+}
+.sol_box {
+    display: inline-flex;
+    
+}
+.sol_img img {
+    max-width: 100%;
+}
+
+.solution-text {
+    max-width: 600px;
+    padding-left: 50px;
+    margin: auto;
+
+}
+
+.solution h4 {
+    color:  #469165;
+    font-size: 16px;
+    font-weight: 500;
+}
+.solution h1 {
+    font-style: Bold;
+    font-size: 48px;
+    font-weight: 700;
+}
+.solution p {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
+    text-align: left;
+    margin-bottom: 40px;
+}
+
+.solution ul {
+    padding-left: 20px;
+}
+
+.solution li {
+    margin-bottom: 10px;
+    list-style-type: none;
+    align-items: center;
+    
+}
+
+.solution .sol_li {
+    display: inline-flex;
+    margin-right: 10px;
+    padding: 4px;
+
+}
+
+.solution img {
+    padding-right: 8px;
+}
+
